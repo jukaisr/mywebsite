@@ -8,7 +8,7 @@
     
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><copyright>:copyright: 2026 Jukai Kinoko</copyright>
-    <lastBuildDate>Sat, 05 Sep 2026 18:19:46 +0800</lastBuildDate><atom:link href="https://jukai.site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Sep 2026 22:49:45 +0800</lastBuildDate><atom:link href="https://jukai.site/tags/index.xml" rel="self" type="application/rss+xml" />
 
 
 
@@ -27,9 +27,30 @@
     <item>
       <title>Life</title>
       <link>https://jukai.site/tags/life/</link>
-      <pubDate>Sat, 25 Jul 2026 15:58:39 +0800</pubDate>
+      <pubDate>Fri, 11 Sep 2026 22:00:51 +0800</pubDate>
       
       <guid>https://jukai.site/tags/life/</guid><description><br/>Since RSS readers do not display the blog content perfectly, please read this article in your browser.</description></item>
+    
+    <item>
+      <title>Notes</title>
+      <link>https://jukai.site/tags/notes/</link>
+      <pubDate>Fri, 11 Sep 2026 22:00:51 +0800</pubDate>
+      
+      <guid>https://jukai.site/tags/notes/</guid><description><br/>Since RSS readers do not display the blog content perfectly, please read this article in your browser.</description></item>
+    
+    <item>
+      <title>ZH-CN</title>
+      <link>https://jukai.site/tags/zh-cn/</link>
+      <pubDate>Fri, 11 Sep 2026 22:00:51 +0800</pubDate>
+      
+      <guid>https://jukai.site/tags/zh-cn/</guid><description><br/>Since RSS readers do not display the blog content perfectly, please read this article in your browser.</description></item>
+    
+    <item>
+      <title>China</title>
+      <link>https://jukai.site/tags/china/</link>
+      <pubDate>Sat, 25 Jul 2026 15:58:39 +0800</pubDate>
+      
+      <guid>https://jukai.site/tags/china/</guid><description><br/>Since RSS readers do not display the blog content perfectly, please read this article in your browser.</description></item>
     
     <item>
       <title>Trip</title>
@@ -37,13 +58,6 @@
       <pubDate>Sat, 25 Jul 2026 15:58:39 +0800</pubDate>
       
       <guid>https://jukai.site/tags/trip/</guid><description><br/>Since RSS readers do not display the blog content perfectly, please read this article in your browser.</description></item>
-    
-    <item>
-      <title>ZH-CN</title>
-      <link>https://jukai.site/tags/zh-cn/</link>
-      <pubDate>Sat, 25 Jul 2026 15:58:39 +0800</pubDate>
-      
-      <guid>https://jukai.site/tags/zh-cn/</guid><description><br/>Since RSS readers do not display the blog content perfectly, please read this article in your browser.</description></item>
     
     <item>
       <title>Australia</title>
@@ -58,13 +72,6 @@
       <pubDate>Sat, 22 Feb 2025 12:03:06 +0800</pubDate>
       
       <guid>https://jukai.site/tags/music/</guid><description><br/>Since RSS readers do not display the blog content perfectly, please read this article in your browser.</description></item>
-    
-    <item>
-      <title>Notes</title>
-      <link>https://jukai.site/tags/notes/</link>
-      <pubDate>Sat, 22 Feb 2025 12:03:06 +0800</pubDate>
-      
-      <guid>https://jukai.site/tags/notes/</guid><description><br/>Since RSS readers do not display the blog content perfectly, please read this article in your browser.</description></item>
     
     <item>
       <title>Web</title>
