@@ -8,7 +8,7 @@
     
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><copyright>:copyright: 2026 Jukai Kinoko</copyright>
-    <lastBuildDate>Sun, 13 Sep 2026 23:25:00 +0800</lastBuildDate><atom:link href="https://jukai.site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Sep 2026 23:53:22 +0800</lastBuildDate><atom:link href="https://jukai.site/index.xml" rel="self" type="application/rss+xml" />
 
 
 
@@ -3869,14 +3869,15 @@ document.getElementById(&#39;github-4baad3a0f0ee4ec10f54d9a676d7fb65-forks&#39;)
       <link>https://jukai.site/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jukai.site/contact/</guid><description>&lt;ul&gt;
-&lt;li&gt;Illustration &amp;amp; PV Contributions&lt;/li&gt;
-&lt;li&gt;Collaborations &amp;amp; Professional Inquiries&lt;/li&gt;
-&lt;li&gt;Feedback &amp;amp; Musical Reflections&lt;/li&gt;
-&lt;li&gt;&amp;hellip;&amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:sarai@jukai.site&#34;&gt;sarai@jukai.site&lt;/a&gt;&lt;br&gt;
-&lt;em&gt;Direct messages on Bilibili are also welcome.&lt;/em&gt;&lt;/p&gt;
+      <guid>https://jukai.site/contact/</guid><description>&lt;p&gt;Feel free to get in touch about my work, collaborations, commissions, or just to share your thoughts.&lt;br&gt;
+作品についてのご連絡、コラボレーション、ご依頼、感想等、お気軽にどうぞ。&lt;br&gt;
+关于作品、合作、委托或感想，都欢迎联系。&lt;/p&gt;
+&lt;!--- Illustration &amp; PV Contributions
+- Collaborations &amp; Professional Inquiries
+- Feedback &amp; Musical Reflections
+- ......--&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:kinoko@jukai.site&#34;&gt;kinoko@jukai.site&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;DMs welcome.&lt;/em&gt;&lt;/p&gt;
 <br/>Since RSS readers do not display the blog content perfectly, please read this article in your browser.</description></item>
     
   </channel>

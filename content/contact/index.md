@@ -11,10 +11,15 @@ showReadingTime: false
 showWordCount: false
 ---  
 
-- Illustration & PV Contributions
+Feel free to get in touch about my work, collaborations, commissions, or just to share your thoughts.  
+作品についてのご連絡、コラボレーション、ご依頼、感想等、お気軽にどうぞ。  
+关于作品、合作、委托或感想，都欢迎联系。  
+
+
+<!--- Illustration & PV Contributions
 - Collaborations & Professional Inquiries
 - Feedback & Musical Reflections
-- ......
+- ......-->
 
-**Email:** [sarai@jukai.site](mailto:sarai@jukai.site)  
-*Direct messages on Bilibili are also welcome.*
+**Email:** [kinoko@jukai.site](mailto:kinoko@jukai.site)  
+*DMs welcome.*
